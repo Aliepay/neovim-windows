@@ -1,0 +1,1 @@
+{"name":"clang-format","links":{"bin":{"clang-format.cmd":"venv\\Scripts\\clang-format.exe"},"opt":{},"share":{}},"metrics":{"start_time":1724577735341,"completion_time":1724577747911},"primary_source":{"id":"pkg:pypi\/clang-format@18.1.8","type":"registry+v1"},"secondary_sources":[],"schema_version":"1.1"}

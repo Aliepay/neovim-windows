@@ -1,0 +1,1 @@
+{"name":"kotlin-debug-adapter","links":{"bin":{"kotlin-debug-adapter.cmd":"adapter\/bin\/kotlin-debug-adapter.bat"},"opt":{},"share":{}},"metrics":{"start_time":1724577666237,"completion_time":1724577717919},"primary_source":{"id":"pkg:github\/fwcd\/kotlin-debug-adapter@0.4.4","type":"registry+v1"},"secondary_sources":[],"schema_version":"1.1"}
